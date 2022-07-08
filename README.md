@@ -12,7 +12,7 @@ Sou uma pessoa com um olhar atento aos detalhes, buscando aprimorar meus conheci
 - ⚡ **Fato engraçado:** 
 Minha família e eu temos um canal infantil no YouTube desde o início da pademia. Lá você pode acompanhar minhas grandes performances... sqn rsrs.
 Clique e veja você mesmo
-<a href="https://www.youtube.com/c/https://www.youtube.com/c/omundodeoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/omundodeoliver" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=mB5fwFfEgrY&t=329s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/omundodeoliver" height="30" width="40" /></a>
 
 - 🔭 No momento tenho trabalhado: Node.js:ORM(sequelize) e JWT.
 - 💬 Fale comigo sobre: Música :guitar:, filmes, séries e qualquer coisa que lhe interesse.
