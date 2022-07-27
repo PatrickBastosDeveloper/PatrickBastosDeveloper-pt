@@ -14,9 +14,9 @@ Minha família e eu temos um canal infantil no YouTube desde o início da pademi
 Clique e veja você mesmo
 <a href="https://www.youtube.com/watch?v=mB5fwFfEgrY&t=329s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/omundodeoliver" height="30" width="40" /></a>
 
-- 🔭 No momento tenho trabalhado: Node.js:ORM(sequelize) e JWT.
+- 🔭 No momento tenho trabalhado: Node.js: Programação orientada a objetos (POO) e SOLID.
 - 💬 Fale comigo sobre: Música :guitar:, filmes, séries e qualquer coisa que lhe interesse.
-- 🌱 Atualmente estou cursando: Programação orientada a objetos (POO) e SOLID. Em breve MongoDB com Node.js.
+- 🌱 Atualmente estou cursando: Em breve MongoDB com Node.js.
 
 ### <📫> Encontre-me no: </📫>
 <br/> 
