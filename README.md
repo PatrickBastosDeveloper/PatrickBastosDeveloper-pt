@@ -1,10 +1,10 @@
+![](https://komarev.com/ghpvc/?username=PatrickBastosDeveloper&style=flat&color=dc143c)
 ---
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" align="center" height="60" width="60">
 
 <h1>Oi!!
 <br/> 
 Eu sou o Patrick, desenvovledor full stack.</h1>
-
 
 Sou uma pessoa com um olhar atento aos detalhes, buscando aprimorar meus conhecimentos tecnológicos e carreira.
 
