@@ -4,7 +4,7 @@
 <div align="center">
 <h1>Olá!!
 <br/> 
-Eu sou o Patrick, desenvolvedor back-end.</h1>
+Eu sou o Patrick, desenvolvedor back-end</h1>
 </div>
 <div align="center">
 <center>
@@ -15,7 +15,7 @@ Abaixo estão as principais habilidades, linguagens e tecnologias que utilizei e
 
 ---
 
-### <div align="center"> <📫> Find me at </📫></div>
+### <div align="center"> <📫> Encontre-me nos seguintes canais </📫></div>
 <br/> 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickbastosdeveloper/)
@@ -23,7 +23,7 @@ Abaixo estão as principais habilidades, linguagens e tecnologias que utilizei e
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_BR&phone=5524992641930)
 
 ---
-### <div align="center"> <📊> Stats </📊></div>
+### <div align="center"> <📊> Estatísticas </📊></div>
 <br>
 
 <div align="center">
