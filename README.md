@@ -1,21 +1,18 @@
----
+
 ![](https://komarev.com/ghpvc/?username=PatrickBastosDeveloper&style=flat&color=dc143c)
 
-<div align="center">
-<h1>Olá!!
-<br/> 
-Eu sou o Patrick, desenvolvedor back-end</h1>
-</div>
-<div align="center">
-<center>
-   Me considero uma pessoa atenta aos detalhes, buscando aprimorar meus conhecimentos tecnológicos e avançar em minha carreira.<br>
-Abaixo estão as principais habilidades, linguagens e tecnologias que utilizei em meus desenvolvimentos desde 2021.
-</center>
-</div>
-
 ---
+<div align="center">
+<h1>Oi!!
+<br/> 
+Eu sou o Patrick, desenvolvedor back-end.</h1>
+</div>
+<div align="center">
+   Sou uma pessoa atenta aos detalhes, buscando aprimorar meus conhecimentos tecnológicos e minha carreira. 
+   Desenvolvedor Back-End especializado em .NET e C#, com experiência na construção de APIs escaláveis, microsserviços e sistemas distribuídos.<br>
+</div>
 
-### <div align="center"> <📫> Find me at </📫></div>
+### <div align="center"> <📫> Entre em contato </📫></div>
 <br/> 
 
 <div align="center">  
@@ -30,20 +27,16 @@ Abaixo estão as principais habilidades, linguagens e tecnologias que utilizei e
   </a>  
 </div>
 
----
-### <div align="center"> <📊> Estatísticas </📊></div>
-<br>
-
 <div align="center">
-<a href="https://github.com/PatrickBastosDeveloper">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PatrickBastosDeveloper&show_icons=true&theme=radical"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickBastosDeveloper&layout=compact&langs_count=7&theme=radical"/>
+<br> Abaixo estão as principais linguagens e tecnologias que utilizo em meus desenvolvimentos desde 2021.
 </div>
-   
+
 ---
+
 ### <div align="center"> <🛠> Tech Stack </🛠></div>
 
 ---
+
 <h3>Methodologies</h3>
 Scrum | Kanban
 
@@ -86,5 +79,17 @@ RabbitMQ | Kafka
 
 <h3>Version Control</h3>
 Git | GitHub | Azure DevOps
+
+---
+
+### <div align="center"> <📊> Stats </📊></div>
+<br>
+
+<div align="center">
+<a href="https://github.com/PatrickBastosDeveloper">
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PatrickBastosDeveloper&show_icons=true&theme=radical"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickBastosDeveloper&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="right" width="50">
